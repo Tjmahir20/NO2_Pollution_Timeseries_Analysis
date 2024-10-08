@@ -26,3 +26,5 @@ The dataset consists of daily global NO2 observations from 2004 to 2024. The pri
 
 4. **Time-Series Decomposition**
    - Performed seasonal decomposition to understand trends and seasonality in NO2 levels across different regions.
+  
+This repository contains the results of an academic course assignment developed as part of the **Satellites for Geohealth Course** ([Satellites for Geohealth Course](https://studyguide.itc.nl/m-geo/all-courses/202300143/satellites-for-geohealth-?q=satelli)).
