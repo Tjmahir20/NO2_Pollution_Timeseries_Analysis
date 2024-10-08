@@ -6,7 +6,7 @@ This project focuses on analyzing time-series data related to NO2 (nitrogen diox
 
 ### Dataset Description
 
-The dataset consists of daily global NO2 observations from 2004 to 2024. The primary variable of interest is the **ColumnAmountNO2Trop** (mean NO2 concentration in the troposphere). The data is provided by the OMI instrument, and more information can be found on the [KNMI project page](https://www.knmiprojects.nl/projects/ozone-monitoring-instrument) or the [NASA Aura website](https://aura.gsfc.nasa.gov/omi.html).
+The dataset consists of daily global NO2 observations from 2004 to 2024. The primary variable of interest is the **ColumnAmountNO2Trop** (mean NO2 concentration in the troposphere). The data is provided by the OMI instrument, and more information can be found on the [KNMI project page](https://www.knmiprojects.nl/projects/ozone-monitoring-instrument) or the [NASA Aura website](https://aura.gsfc.nasa.gov/omi.html). Due to the larger size of the dataset, it was not included with this repository. Interested users can download similar datasets from the above mentioned websites.
 
 ### Key Tasks
 
